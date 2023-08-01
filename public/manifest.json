@@ -1,0 +1,17 @@
+{
+  "short_name": "Aqua Wallet",
+  "name": "Aque Wallet",
+  "description":"A cryptp wallet for using the blockchain",
+  "manifest_version":3,
+  "version":"1.0",
+  "action":{
+    "default_popup":"index.html",
+    "default_title":"Open wallet"
+  },
+  "permissions":[],
+  
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
